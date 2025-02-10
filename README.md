@@ -19,3 +19,4 @@ response = ai.get_ai_response("Hello, how are you?", model="custom-model")
 print(response)
 
 ```
+PyPI Link : https://pypi.org/project/py-ai-manager/0.0.4/
